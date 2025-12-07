@@ -31,7 +31,7 @@ I served as the lead for the electrical and embedded software subsystems, respon
 ![Electrical Schematic](hardware/electrical_schematic.png)
 
 ## Prototyping and Integration
-![Breadboard Prototype](hardware/breadboard_prototype.jpg)
+![Breadboard Prototype](hardware/breadboard_prototype.png)
 ![Wearable Prototype](media/wearable_prototype.jpg)
 
 ## Display Output
