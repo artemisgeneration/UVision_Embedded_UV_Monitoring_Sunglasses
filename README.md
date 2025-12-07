@@ -38,4 +38,11 @@ I served as the lead for the electrical and embedded software subsystems, respon
 ![OLED Output](media/oled_output.jpg)
 
 ## Repository Structure
+```plaintext
+firmware/   Embedded ESP32 firmware
+hardware/   Electrical schematic and breadboard images
+media/      System photos
+docs/       Supporting documentation
+
+
 
