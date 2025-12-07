@@ -1,6 +1,3 @@
-# UVision_Embedded_UV_Monitoring_Sunglasses
-Embedded wearable UV monitoring system using ESP32, I²C UV sensing, OLED display, and PWM haptic feedback.
-
 # UVision — Embedded Wearable UV Monitoring System
 
 UVision is an embedded wearable system designed to monitor real-time ultraviolet (UV) exposure and provide on-device visual and haptic feedback without reliance on external devices.
