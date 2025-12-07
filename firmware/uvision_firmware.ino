@@ -1,5 +1,5 @@
 /*
- * Project: UV Index Sunglasses (UVision)
+ * Project: UVision - Embedded Wearable UV Monitoring System
  * Author: Victoria Morris
  *
  * Description:
