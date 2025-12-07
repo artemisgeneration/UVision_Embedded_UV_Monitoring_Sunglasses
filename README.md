@@ -35,7 +35,7 @@ I served as the lead for the electrical and embedded software subsystems, respon
 ![Wearable Prototype](media/wearable_prototype.png)
 
 ## Display Output
-![OLED Output](media/oled_output.jpg)
+![OLED Output](media/oled_output.png)
 
 ## Repository Structure
 ```plaintext
