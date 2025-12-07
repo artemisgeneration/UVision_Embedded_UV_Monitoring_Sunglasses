@@ -28,7 +28,7 @@ I served as the lead for the electrical and embedded software subsystems, respon
 - Diagnostic serial logging and error handling
 
 ## System Architecture
-![Electrical Schematic](hardware/electrical_schematic.png)
+![Electrical Schematic](hardware/electrical_schematic1.png)
 
 ## Prototyping and Integration
 ![Breadboard Prototype](hardware/breadboard_prototype.png)
