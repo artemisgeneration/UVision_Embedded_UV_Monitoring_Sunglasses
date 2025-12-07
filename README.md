@@ -32,7 +32,7 @@ I served as the lead for the electrical and embedded software subsystems, respon
 
 ## Prototyping and Integration
 ![Breadboard Prototype](hardware/breadboard_prototype.png)
-![Wearable Prototype](media/wearable_prototype.jpg)
+![Wearable Prototype](media/wearable_prototype.png)
 
 ## Display Output
 ![OLED Output](media/oled_output.jpg)
